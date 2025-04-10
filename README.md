@@ -1,1 +1,1 @@
-# Web TEchnology Praticals
+# Web Technology Praticals
